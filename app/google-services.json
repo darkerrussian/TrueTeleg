@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "554238000521",
+    "project_id": "truetelega",
+    "storage_bucket": "truetelega.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554238000521:android:e7b96efc9680a029cfb558",
+        "android_client_info": {
+          "package_name": "com.hocage.truetelega"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554238000521-9qvn0jaedev4kc5ekhvq59nv96la68gr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOzggLr7mpL4LEIjb3pwZY8Dsk6qZOPvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554238000521-9qvn0jaedev4kc5ekhvq59nv96la68gr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
